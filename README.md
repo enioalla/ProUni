@@ -32,3 +32,23 @@ Abrir Jupyter Notebook no Anaconda.<br>
 Procurar pela pasta do repositório.<br>
 Apertar em 'RUN'.<br>
 Após este passo, o programa irá rodar todos as tabelas e gráficos disponíveis.<br>
+
+## Resultados
+
+Através da análise dos dados podemos confirmar que o ProUni busca levar sim uma educação a todas as regiões do país e também a todos os tipos de pessoas <br>
+O projeto apresenta uma grande oportunidade para que vários brasileiros possam conseguir os seu primeiro diploma <br>
+<br><br>
+##### Pontos Positivos
+O ProUni atende de maneira significativa populações que apresentam uma discriminalização social <br>
+Em relação a raça/cor mais de 50% dos alunos atendidos com bolsa são pardos ou negros. <br>
+O mesmo ocorre com mulheres, que são a maioria dos bolsista do programa quando analisamos o gênero <br>
+De forma indireta, ter esses alunos a oportunidade de acesso ao ensino superior pode mudar a realidade deles e de muitos outros ao seu redor. 
+<br><br>
+##### Pontos Negativos
+Em relação a distribuição geográfica das bolsas, o ProUni se concentra mais em regiões desenvolvidas como o sul e o sudeste, quando comparamos a distribuição da população brasileira.<br>
+Para democratizar a educação é necessários que regiões como o Norte e Nordeste tenham um crescimento do número de bolsas concedidas. Para que, assim, o ProUni traga mais oportunidades para essa Região
+
+<center><strong><h3>Ponto Gravissímo</h3></strong></center>
+O número de bolsas do ProUni, entre os anos analisados diminuiu drasticamente<br>
+Talvez o ProUni não seja o Programa Universidade Para Todos não por atender de maneira privilegiadas grupos predominantes da sociedade, <br>
+mas sim porque está cada vez mais diminuindo a sua abrangência. 
